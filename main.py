@@ -1,4 +1,5 @@
 # Requiem bot for IRC written in Python 3
+# Change options below.
 
 import sys
 import socket
